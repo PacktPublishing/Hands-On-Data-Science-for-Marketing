@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11295?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Hands-On Data Science for Marketing
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-data-science-marketing?utm_source=github&utm_medium=repository&utm_campaign=9781789346343"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11295_p.png" alt="Hands-On Data Science for Marketing" height="256px" align="right"></a>
